@@ -1,0 +1,19 @@
+{
+  "name": "CAP-on-AWS-Project1",
+  "version": "1.0.0",
+  "description": "ACloudGuruji.com - CAP on AWS Project1 (CAP in Local Computer with VS Code)",
+  "repository": "<Add your repository here>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@sap/cds": "^7"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  },
+  "cds": {
+    "requires": {
+
+    }
+  }
+}
