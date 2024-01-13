@@ -7,12 +7,11 @@ Welcome to CAP on AWS Project1 (CAP in Local Computer with VS Code)
 - Run the Execution Steps below
 
 # Project Structure : File or Folder | Purpose
----------|----------
-`app/` | content for UI frontends goes here
-`db/` | your domain models and data go here
-`srv/` | your service models and code go here
-`package.json` | project metadata, configuration, project dependencies
-`readme.md` | this getting started guide
+- `app/` | content for UI frontends goes here
+- `db/` | your domain models and data go here
+- `srv/` | your service models and code go here
+- `package.json` | project metadata, configuration, project dependencies
+- `readme.md` | this getting started guide
 
 ## Execution Steps
 
